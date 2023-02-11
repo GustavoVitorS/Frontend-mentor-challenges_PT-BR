@@ -1,4 +1,4 @@
-# frontend mentor challenges 📙
+# Frontend mentor challenges 📙
 
 # Easybank-landing-page : https://github.com/GustavoVitorS/Easybank-landing-page
 
