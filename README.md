@@ -1,4 +1,4 @@
-# Frontend mentor challenges 📙
+# Frontend mentor challenges translated into PT-BR 📙
 
 # Easybank-landing-page : 
    ## Repository: https://github.com/GustavoVitorS/Easybank-landing-page
