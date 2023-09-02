@@ -1,5 +1,6 @@
 # Frontend mentor challenges translated into PT-BR 📙
-
+![Captura de tela de 2023-09-02 17-31-16](https://github.com/GustavoVitorS/Frontend-mentor-challenges_PT-BR/assets/94203956/adb0357c-3fba-4693-a235-f669e3aa4e66)
+#
 # Easybank-landing-page : 
    ## Repository: https://github.com/GustavoVitorS/Easybank-landing-page
    ## Deploy: https://gustavovitors.github.io/Easybank-landing-page/
