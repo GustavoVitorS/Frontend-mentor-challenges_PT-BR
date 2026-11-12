@@ -4,7 +4,7 @@
 
 # Frontend Mentor Challenges — Brazilian Portuguese (PT-BR) 🇧🇷
 
-**39 challenges • Responsive interfaces • Independent solutions • Source code and live demos**
+**39 challenges · Responsive layouts · Source code · Live demos · PT-BR adaptations**
 
 A collection of front-end development challenges that I completed and adapted into **Brazilian Portuguese (PT-BR)**. This repository serves as a portfolio-style catalog where you can explore each project, review its source code, and try the live demo.
 
@@ -14,7 +14,7 @@ The original challenges come from [Frontend Mentor](https://www.frontendmentor.i
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) ![Responsive Design](https://img.shields.io/badge/Responsive-Design-27B9D4?style=flat-square)
 
-> **About the screenshots:** the gallery currently uses placeholder previews until the final screenshots are available. To update an image, replace its matching PNG file in `screenshots/` — **no README edits required**.
+> **Gallery previews:** Easybank uses a presentation graphic based on screenshots of the current desktop and mobile implementation, without implying a redesign. The other 38 preview images are labeled placeholders. Replace each with a screenshot of its actual project version over time — no README edits are needed when the filenames remain the same.
 
 ---
 
@@ -74,9 +74,11 @@ Full-page layouts, company websites, product pages, and portfolio projects.
 
 #### 01. Easybank Landing Page
 
-A responsive digital banking landing page focused on visual hierarchy and presenting financial services.
+A responsive banking-themed landing page adapted into Brazilian Portuguese, with desktop and mobile layouts. The screenshot below showcases the project's current design rather than a redesigned concept.
 
-![Placeholder preview for Easybank Landing Page](screenshots/easybank-landing-page.png)
+![Easybank Landing Page — desktop and mobile showcase based on the current implementation](screenshots/easybank-landing-page.png)
+
+*Desktop and mobile showcase of the existing Easybank implementation (PT-BR).*
 
 **[📂 Repository](https://github.com/GustavoVitorS/Easybank-landing-page)** &nbsp;·&nbsp; **[🌐 Live demo](https://gustavovitors.github.io/Easybank-landing-page/)**
 
